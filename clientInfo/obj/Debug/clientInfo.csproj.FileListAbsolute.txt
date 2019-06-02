@@ -1,0 +1,13 @@
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\bin\Debug\clientInfo.exe.config
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\bin\Debug\clientInfo.exe
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\bin\Debug\clientInfo.pdb
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.ClientComplain.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.ConfoirmedClient.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.Employee.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.Form1.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.Properties.Resources.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.csproj.GenerateResource.Cache
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.exe
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.pdb
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.csprojAssemblyReference.cache
+C:\Users\dania\Documents\Visual Studio 2015\Projects\clientInfo\clientInfo\obj\Debug\clientInfo.csproj.CoreCompileInputs.cache
