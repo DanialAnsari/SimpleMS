@@ -10,12 +10,14 @@ namespace ConsoleApplication1
     class Client
     {
         DatabaseHelper db = new DatabaseHelper();
+        int a = 0;
         public DataTable GetClientID()
         {
             DataTable dd;
             string q = "Select ClientID from client";
             dd = db.Search(q);
             return dd;
+            a++;
 
         }
 
@@ -36,13 +38,14 @@ namespace ConsoleApplication1
             string q = "Select LastName from client where ClientID=" + id;
             dd = db.Search(q);
             String name = Convert.ToString(dd.Rows[0][0]);
-
+            a++;
             return name;
 
         }
 
         public string GetNumber1(int id)
         {
+            a++;
             DataTable dd;
             string q = "Select Number#1 from client where ClientID=" + id;
             dd = db.Search(q);
@@ -54,6 +57,7 @@ namespace ConsoleApplication1
 
         public string GetNumber2(int id)
         {
+            a++;
             DataTable dd;
             string q = "Select Number#2 from client where ClientID=" + id;
             dd = db.Search(q);
@@ -71,7 +75,7 @@ namespace ConsoleApplication1
             String name = Convert.ToString(dd.Rows[0][0]);
 
             return name;
-
+            a++;
         }
 
         public string GetAdress(int id)
@@ -82,7 +86,7 @@ namespace ConsoleApplication1
             String name = Convert.ToString(dd.Rows[0][0]);
 
             return name;
-
+            a++;
         }
 
         public string GetComment(int id)
